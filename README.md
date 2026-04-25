@@ -85,7 +85,7 @@ Email_Agent/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Email_Agent.git
+git clone https://github.com/SaadSaddique/Multi-Agent-Email-Manager
 cd Email_Agent
 ```
 
